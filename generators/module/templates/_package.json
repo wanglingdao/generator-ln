@@ -3,17 +3,17 @@
   "version": "<%= version %>",
   "description": "<%= description %>",
   "keywords": [],
-  "homepage": "https://github.com/LinNing/<%= appname %>",
+  "homepage": "https://github.com/wanglingdao/<%= appname %>",
   "author": {
     "name": "<%= user.name %>",
     "email": "<%= user.email %>"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LinNing/<%= appname %>.git"
+    "url": "https://github.com/wanglingdao/<%= appname %>.git"
   },
   "bugs": {
-    "url": "https://github.com/LinNing/<%= appname %>/issues"
+    "url": "https://github.com/wanglingdao/<%= appname %>/issues"
   },
   "licenses": "MIT",
   "devDependencies": {
